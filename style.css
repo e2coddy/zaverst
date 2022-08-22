@@ -1,0 +1,139 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    color: #533738;
+    font-weight: 400;
+}
+
+body {
+    background-color: #E5E5E5;
+}
+
+.nav {
+
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.description_slogan {
+
+    font-size: 50px;
+    line-height: 62px;
+}
+
+.description_text {
+
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.description_leave-request_btn {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.about-us_title {
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+
+.about-us_text {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.about-us_numbers {
+    background-color: #8D7370;
+
+}
+
+.about-us_numbers p {
+    font-size: 50px;
+    color: #FFFFFF;
+    line-height: 62px;
+}
+
+.our-works_title {
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+
+.our-works_btn {
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 37px;
+}
+
+.team-work_wrapper {
+    background-color: #E2C4BA;
+}
+
+.team_title {
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+
+.team_who {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.how-work_title {
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+
+.how-work_stage {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.reviews_title {
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+
+.quote_text {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.rewiews_name {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.leave-request_wrapper {
+    background-color: #8D7370;
+}
+
+.leave-request_title {
+    font-size: 40px;
+    line-height: 50px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.leave-request_description {
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+    opacity: 0.6;
+}
+
+.form_btn {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.footer {
+    font-size: 18px;
+    line-height: 30px;
+}
